@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ambient Profile</string>
+    <string name="tab_text_1">Profiles</string>
+    <string name="tab_text_2">Map</string>
+</resources>
